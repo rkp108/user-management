@@ -1,0 +1,11 @@
+.table-container {
+    padding: 20px; /* Add padding inside the container */
+    margin: 20px; /* Add margin outside the container */
+    border: 1px solid #ddd; /* Optional: Add a border around the container */
+    border-radius: 8px; /* Optional: Add rounded corners to the border */
+  }
+  
+  .card-body {
+    margin-top: 20px; /* Add space between the card title and card body content */
+  }
+  

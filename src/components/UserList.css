@@ -1,0 +1,17 @@
+.user-list-background {
+    background-image: url('https://www.egnyte.com/sites/default/files/inline-images/The%20expansion%20of%20cloud%20applications%20has%20added%20to....png'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .table-opacity {
+    opacity: 0.8; /* Adjust opacity as needed (0 is fully transparent, 1 is fully opaque) */
+    transition: opacity 0.3s ease; /* Optional: Add a transition effect */
+  }
+  
+  .table-opacity:hover {
+    opacity: 1; /* Optional: Full opacity on hover */
+  }
+  

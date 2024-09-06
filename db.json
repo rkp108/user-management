@@ -12,12 +12,6 @@
       "email": "ketan@gmail.com",
       "phone": "8080808080",
       "active": true
-    },
-    {
-      "id": "88db",
-      "name": "Sam",
-      "email": "sam@gmail.com",
-      "phone": "5050505025"
     }
   ]
 }
